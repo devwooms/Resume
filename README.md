@@ -2,10 +2,6 @@
 
 > 임베디드/앱 개발자 | RCWS·BLE·크로스 플랫폼 | 경력 4년+
 
-BLE 기반 하드웨어-앱 연동 앱 7개를 신규 개발하고 5개를 기능 확장·유지보수하며, 프로토콜 설계부터 배포까지 전 과정을 담당했습니다.
-BLE 연동 과정에서 하드웨어 레이어로 관심이 확장되어 임베디드로 전환, 현재는 RCWS 시험시제를 입사 3개월 만에 개발 완료하고 실 사격 시험을 성공시켰습니다.
-앱 레이어부터 펌웨어까지, 하드웨어-소프트웨어 경계를 넘나드는 개발자입니다.
-
 [![Email](https://img.shields.io/badge/Email-devwooms@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:devwooms@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-devwooms-181717?logo=github&logoColor=white)](https://github.com/devwooms)
 
 ---
